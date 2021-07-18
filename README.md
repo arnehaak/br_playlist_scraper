@@ -1,1 +1,2 @@
-# br_playlist_scraper
+# BR Playlist Scraper
+Web scraping of BR radio stations
